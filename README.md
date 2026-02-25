@@ -3,7 +3,7 @@ This repository contains the implementation of the masterâ€™s capstone project â
 trained model output files link:-
 kaggle kernels output skshitij/deepfake-detection -p /path/to/dest
 
-/n
+
 
 ## Kaggle notebook link for reference and model outputs 
 https://www.kaggle.com/code/skshitij/deepfake-detection/notebook
